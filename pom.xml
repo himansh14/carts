@@ -90,7 +90,6 @@
                     <includes>
                         <include>**/Unit*.java</include>
                     </includes>
-            <testFailureIgnore>true</testFailureIgnore>
                     <excludes>
                         <exclude>**/IT*.java</exclude>
                     </excludes>
