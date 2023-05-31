@@ -6,7 +6,7 @@
 
     <groupId>works.weave.microservices-demo</groupId>
     <artifactId>carts</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>carts</name>
     <description>Carts service for microservices-demo application</description>
